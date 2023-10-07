@@ -43,7 +43,7 @@ nav h4{
     padding: 0;
     margin: 3rem 0 0 1.6rem;
     /* max-width: 600px; */
-    background-image: url("Images/logo512.png");
+    background-image: url("./Images/logo512.png");
     background-repeat: no-repeat;
     background-position-x: right;
     background-size: 24%;
